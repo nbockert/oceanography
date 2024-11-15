@@ -12,4 +12,4 @@ In this web application, I explore the relationship between ocean temperature an
 
 ---
 ### **Demo:**
-[Watch the demo video]([https://www.youtube.com/watch?v=example](https://youtu.be/QyfnmBJy5ho))
+[Watch the demo video](https://youtu.be/QyfnmBJy5ho)
